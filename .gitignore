@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+output/
+cfs_design_results.csv
+cfs_design_results.png
+*.ipynb_checkpoints/
+.mcp.json
